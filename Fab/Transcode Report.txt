@@ -1,0 +1,68 @@
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\IrDA\Fab\IrDA-F.Mask.gbr' ----   Wed Sep 07 00:21:28 2016
+
+D11   --> D100
+D12   --> D101
+D13   --> D102
+D14   --> D103
+D15   --> D104
+D16   --> D105
+D17   --> D106
+D18   --> D107
+D19   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\IrDA\Fab\IrDA-F.Cu.gbr' ----   Wed Sep 07 00:21:49 2016
+
+D11   --> D109
+D12   --> D110
+D13   --> D111
+D14   --> D112
+D15   --> D113
+D16   --> D114
+D17   --> D115
+D18   --> D116
+D19   --> D117
+D20   --> D118
+D21   --> D119
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\IrDA\Fab\IrDA-B.Cu.gbr' ----   Wed Sep 07 00:22:18 2016
+
+D11   --> D120
+D12   --> D121
+D13   --> D122
+D14   --> D123
+D15   --> D124
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\IrDA\Fab\IrDA-B.Mask.gbr' ----   Wed Sep 07 00:22:54 2016
+
+D11   --> D125
+D12   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\IrDA\Fab\IrDA-B.SilkS.gbr' ----   Wed Sep 07 00:23:05 2016
+
+D11   --> D127
+D12   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\IrDA\Fab\IrDA-drl_map.gbr' ----   Wed Sep 07 00:23:17 2016
+
+D11   --> D129
+D12   --> D130
+D13   --> D131
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\IrDA\Fab\IrDA-Dwgs.User.gbr' ----   Wed Sep 07 00:32:25 2016
+
+D11   --> D132
+-----------------------------------------------------------------
